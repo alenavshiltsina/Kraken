@@ -9,6 +9,7 @@ It includes:
 
 
 ## Project Structure
+```text
 .
 ├── modules # Terraform reusable components
 │   └── sqs
@@ -29,7 +30,7 @@ It includes:
 ├── provider.tf # Global Terraform provider config
 ├── variables.tf # Shared Terraform variables
 └── README.md # This documentation file
-
+```
 
 ## Run & Test
 
